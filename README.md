@@ -1,5 +1,7 @@
 # -08---JS-A-Linguagem
     - Show do Milhao
+
+    -Pedro Henrique Mendes de Castro
     
     - Regras do Jogo:
         *Não e permitido qualquer tipo de consulta.
